@@ -1,0 +1,35 @@
+{
+  "version": "1.0",
+  "tasks": [
+    {
+      "id": "task-001",
+      "title": "Set up initial project structure",
+      "status": "completed",
+      "description": "Create the main directories for backend, docs, widget, etc."
+    },
+    {
+      "id": "task-002",
+      "title": "Scaffold Docusaurus site",
+      "status": "completed",
+      "description": "Initialize a new Docusaurus project in the /docs directory."
+    },
+    {
+      "id": "task-003",
+      "title": "Create FastAPI backend",
+      "status": "completed",
+      "description": "Set up the main FastAPI app, endpoints, and RAG service."
+    },
+    {
+      "id": "task-004",
+      "title": "Implement Chat Widget",
+      "status": "completed",
+      "description": "Create the HTML, CSS, and JS for the frontend chat widget."
+    },
+    {
+      "id": "task-005",
+      "title": "Implement Document Embedding",
+      "status": "pending",
+      "description": "Finalize and test the document embedding script and Qdrant integration."
+    }
+  ]
+}
